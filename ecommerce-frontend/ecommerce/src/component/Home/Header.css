@@ -1,0 +1,17 @@
+
+
+@keyframes sliding{
+    0%{
+      transform: translateX(130%);
+    }
+    100%{
+      transform: translateX(-70%);
+       
+    }
+  }
+  h1{
+    color:hsl(141, 58%, 46%);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5em;
+  }
+  
